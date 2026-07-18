@@ -93,23 +93,15 @@ Send Reminder Emails
 
 ```
 AI-Project-Planning-Agent/
-
 │
-├── workflows/
-│   ├── planner-agent.json
-│   ├── reminder-agent.json
+├── AI_Project_Planning_Agent.json
+├── AI_Task_Reminder_Agent.json
+├── README.md
 │
-├── screenshots/
-│   ├── planner-workflow.png
-│   ├── reminder-workflow.png
-│   ├── google-sheet.png
-│   └── email-output.png
-│
-├── report/
-│   └── Project_Report.pdf
-│
-└── README.md
-```
+└── Screenshots/
+    ├── workflow.png
+    ├── google_sheet_data.png
+    └── reminder_workflow.png
 
 ---
 
@@ -118,24 +110,22 @@ AI-Project-Planning-Agent/
 ### 🏗️ AI Project Planning Workflow
 
 This workflow automatically generates project plans, assigns tasks using AI, and stores the results in Google Sheets.
-
 ![AI Project Planning Workflow](Screenshots/workflow.png)
-
----
-
-### 📊 Google Sheets Dataset
-
-The workflow reads project details from Google Sheets and updates task information automatically.
-
-![Google Sheets Dataset](Screenshots/google_sheet_data.png)
 
 ---
 
 ### 🔔 AI Task Reminder Workflow
 
 This workflow monitors project tasks and automatically sends personalized reminder emails to team members using AI and Gmail.
-
 ![AI Task Reminder Workflow](Screenshots/reminder_workflow.png)
+
+---
+### 📊 Google Sheets Dataset
+
+The workflow reads project details from Google Sheets and updates task information automatically.
+![Google Sheets Dataset](Screenshots/google_sheet_data.png)
+
+---
 
 # 📋 How It Works
 
