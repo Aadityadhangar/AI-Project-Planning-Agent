@@ -59,27 +59,27 @@ The Planner Agent converts project requirements into structured milestones and t
 # ⚙️ Workflow
 
 ```text
-                User Requirement
+                  User Requirement
                        │
                        ▼
-             Planner AI Agent
+                 Planner AI Agent
                        │
-             Generate Milestones
+               Generate Milestones
                        │
-               Generate Tasks
+                 Generate Tasks
                        │
-           Assign Team Members
+               Assign Team Members
                        │
-         Store in Google Sheets
+             Store in Google Sheets
                        │
-               Scheduled Trigger
+                 Scheduled Trigger
                        │
                        ▼
-            Reminder AI Agent
+                Reminder AI Agent
                        │
-             Check Deadlines
+                 Check Deadlines
                        │
-         Send Reminder Emails
+             Send Reminder Emails
 ```
 
 ---
@@ -145,7 +145,7 @@ Google Sheets acts as the project database, storing milestones, assigned team me
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/AI-Project-Planning-Agent.git
+git clone https://github.com/Aadityadhangar/AI-Project-Planning-Agent.git
 ```
 
 ### 2. Open n8n
