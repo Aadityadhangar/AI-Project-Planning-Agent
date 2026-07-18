@@ -113,19 +113,29 @@ AI-Project-Planning-Agent/
 
 ---
 
-# 📸 Screenshots
-
 ## 📸 Screenshots
 
-### AI Project Planning Workflow
-![Workflow](screenshots/workflow.png)
+### 🏗️ AI Project Planning Workflow
 
-### Reminder Workflow
-![Execution](screenshots/reminder_workflow.png)
+This workflow automatically generates project plans, assigns tasks using AI, and stores the results in Google Sheets.
 
-### Google Sheets Dataset
-![Dataset](screenshots/google_sheet_data.png)
+![AI Project Planning Workflow](Screenshots/workflow.png)
 
+---
+
+### 📊 Google Sheets Dataset
+
+The workflow reads project details from Google Sheets and updates task information automatically.
+
+![Google Sheets Dataset](Screenshots/google_sheet_data.png)
+
+---
+
+### 🔔 AI Task Reminder Workflow
+
+This workflow monitors project tasks and automatically sends personalized reminder emails to team members using AI and Gmail.
+
+![AI Task Reminder Workflow](Screenshots/reminder_workflow.png)
 
 # 📋 How It Works
 
