@@ -115,29 +115,17 @@ AI-Project-Planning-Agent/
 
 # 📸 Screenshots
 
-### Planner AI Workflow
+## 📸 Screenshots
 
-(Add Screenshot Here)
+### AI Project Planning Workflow
+![Workflow](screenshots/workflow.png)
 
----
+### Reminder Workflow
+![Execution](screenshots/reminder_workflow.png)
 
-### Reminder AI Workflow
+### Google Sheets Dataset
+![Dataset](screenshots/google_sheet_data.png)
 
-(Add Screenshot Here)
-
----
-
-### Generated Project Plan
-
-(Add Google Sheet Screenshot)
-
----
-
-### Reminder Email
-
-(Add Email Screenshot)
-
----
 
 # 📋 How It Works
 
