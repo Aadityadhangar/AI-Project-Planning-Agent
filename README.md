@@ -269,15 +269,16 @@ All sensitive credentials have been removed before publishing.
 **Aaditya Rajendra Dhangar**
 
 🎓 B.Tech – Artificial Intelligence & Data Science
-
 🚀 Lenovo LEAP NextGen Scholar 2026
+
+🔗 Github :- https://github.com/Aadityadhangar
+🔗 LinkedIn :- www.linkedin.com/in/aaditya-dhangar-70a20728a
 
 ---
 
 # ⭐ Acknowledgement
 
 This project was developed during the **Lenovo LEAP NextGen Scholar Internship 2026**, a CSR initiative by **Lenovo**, implemented by **BharatCares** in collaboration with **AICTE**.
-
 Special thanks to the mentors and trainers for their guidance and support throughout the internship.
 
 ---
