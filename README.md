@@ -91,7 +91,7 @@ Send Reminder Emails
 
 # 📂 Project Structure
 
-```
+--- 
 AI-Project-Planning-Agent/
 │
 ├── AI_Project_Planning_Agent.json
