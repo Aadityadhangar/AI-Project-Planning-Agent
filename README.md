@@ -262,17 +262,26 @@ All sensitive credentials have been removed before publishing.
 - Task Completion Prediction
 - Multi-Project Support
 
+
 ---
 
 # 👨‍💻 Author
 
 **Aaditya Rajendra Dhangar**
 
-🎓 B.Tech – Artificial Intelligence & Data Science
+B.Tech – Artificial Intelligence & Data Science
+
+Sandip Institute of Technology & Research Centre, Nashik
+
 🚀 Lenovo LEAP NextGen Scholar 2026
 
-🔗 Github :- https://github.com/Aadityadhangar
-🔗 LinkedIn :- www.linkedin.com/in/aaditya-dhangar-70a20728a
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aaditya_Dhangar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaditya-dhangar-70a20728a)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aaditya_Dhangar-181717?logo=github&logoColor=white)](https://github.com/Aadityadhangar)
+
+📧 Email: aadityadhangar25@gmail.com
 
 ---
 
